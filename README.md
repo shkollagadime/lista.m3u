@@ -97,8 +97,6 @@ http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/12
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/34207
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Turkish• sᴅ" tvg-logo="https://i.imgur.com/5d3xtFE.png" group-title="Albania",AL: Tring Turkish• sᴅ
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/36119
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Original ᶠᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/TRING-3-HD.png" group-title="Albania",AL: Tring Original ᶠᴴᴰ
-http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/36055
 #EXTINF:-1 tvg-id="3 Plus" tvg-name="AL: Tring 3 ™ +" tvg-logo="http://logo.protv.cc/picons/logos/TRING-3-HD.png" group-title="Albania",AL: Tring 3 ™ +
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/20
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring 3 ™ " tvg-logo="" group-title="Albania",AL: Tring 3 ™ 
@@ -108,23 +106,6 @@ http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/13454
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Novelas™ ᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/TRING-3-HD.png" group-title="Albania",AL: Tring Novelas™ ᴴᴰ
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/22774
 #EXTINF:-1 tvg-id="" tvg-name="AL: TDC" tvg-logo="http://logo.protv.cc/picons/logos/tdc.png" group-title="Albania",AL: TDC
-http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/2843
-#EXTINF:-1 tvg-id="" tvg-name="AL: DTV " tvg-logo="" group-title="Albania",AL: DTV 
-http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/39202
-#EXTINF:-1 tvg-id="" tvg-name="AL: DTV ᴴᴰ" tvg-logo="https://i.imgur.com/fBghgoR.jpg" group-title="Albania",AL: DTV ᴴᴰ
-http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/28182
-#EXTINF:-1 tvg-id="" tvg-name="AL: MCN TV " tvg-logo="https://i.imgur.com/BBedBmN.png" group-title="Albania",AL: MCN TV 
-http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/35446
-#EXTINF:-1 tvg-id="TeleSport" tvg-name="AL: RTSH SAT • sᴅ" tvg-logo="http://logo.protv.cc/picons/logos/rtsh1.png" group-title="Albania",AL: RTSH SAT • sᴅ
-http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/74
-#EXTINF:-1 tvg-id="RTSH2 HD" tvg-name="AL: RTSH 2 ᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/rtsh1.png" group-title="Albania",AL: RTSH 2 ᴴᴰ
-http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/76
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 3 ᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/rtsh3.png" group-title="Albania",AL: RTSH 3 ᴴᴰ
-http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/75
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Shqip ᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/rtsh1.png" group-title="Albania",AL: RTSH Shqip ᴴᴰ
-http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/141
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH plus ᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/rtsh1.png" group-title="Albania",AL: RTSH plus ᴴᴰ
-http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/14325
 #EXTINF:-1 tvg-id="" tvg-name="•●★AL| Big Brother |★●•" tvg-logo="" group-title="Albania",•●★AL| Big Brother |★●•
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/36122
 #EXTINF:-1 tvg-id="" tvg-name="AL: BB Vip Kosova 1 ⁴ᴷ" tvg-logo="" group-title="Albania",AL: BB Vip Kosova 1 ⁴ᴷ
