@@ -1,5 +1,3 @@
-# lista.m3u
-Test
 #EXTM3U
 #EXTINF:-1 tvg-id="",8 Out of 10 Cats (1080p) [Geo-blocked]
 https://amg00627-amg00627c37-samsung-au-4294.playouts.now.amagi.tv/playlist/amg00627-banijayfast-8outof10cats-samsungau/playlist.m3u8
