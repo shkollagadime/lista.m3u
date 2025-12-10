@@ -3,6 +3,8 @@
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/3107
 #EXTINF:-1 tvg-id="RTSH3 HD" tvg-name="AL: RTK SAT  ᶠᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/rtk1.png" group-title="Albania",AL: RTK SAT  ᶠᴴᴰ
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/2
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 4™ ᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/RTK-4.png" group-title="Albania",AL: RTK 4™ ᴴᴰ
+http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/6
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTK 1• sᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rtk1_2013.png" group-title="Albania",AL: RTK 1• sᴅ
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/16529
 #EXTINF:-1 tvg-id="TeleSport" tvg-name="AL: RTK 1™ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rtk1_2013.png" group-title="Albania",AL: RTK 1™ ᴴᴰ
@@ -11,8 +13,6 @@ http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/3
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/15010
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTK 3™ ᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/rtk3.png" group-title="Albania",AL: RTK 3™ ᴴᴰ
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/5
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 4™ ᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/RTK-4.png" group-title="Albania",AL: RTK 4™ ᴴᴰ
-http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/6
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTK 4 • sᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/RTK4_logo_5ac42bf221795.png/200px-RTK4_logo_5ac42bf221795.png" group-title="Albania",AL: RTK 4 • sᴅ
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/15011
 #EXTINF:-1 tvg-id="" tvg-name="AL: ALSAT• sᴅ" tvg-logo="https://i.imgur.com/wTdN9o5.png" group-title="Albania",AL: ALSAT• sᴅ
