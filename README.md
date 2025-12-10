@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Autor ᶠᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/FILM-TV.png" group-title="Albania",AL: Film Autor ᶠᴴᴰ
+http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/152
 #EXTINF:-1 tvg-id="" tvg-name="•●★AL| SHQIP |★●•" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg" group-title="Albania",•●★AL| SHQIP |★●•
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/3107
 #EXTINF:-1 tvg-id="RTSH3 HD" tvg-name="AL: RTK SAT  ᶠᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/rtk1.png" group-title="Albania",AL: RTK SAT  ᶠᴴᴰ
