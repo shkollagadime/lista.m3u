@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Alsat-M" tvg-name="AL: ALSAT M™ ᴴᴰ" tvg-logo="https://i.imgur.com/wTdN9o5.png" group-title="Albania",AL: ALSAT M™ ᴴᴰ
+http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/1236
 #EXTINF:-1 tvg-id="RTSH1 HD" tvg-name="AL: RTV 21 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/jMtR7pC.jpg" group-title="Albania",AL: RTV 21 ᶠᴴᴰ
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/1238
 #EXTINF:-1 tvg-id="KTV" tvg-name="AL: KTV™ ᴴᴰ" tvg-logo="https://i.imgur.com/yKMNNik.png" group-title="Albania",AL: KTV™ ᴴᴰ
@@ -21,8 +23,6 @@ http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/5
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/15011
 #EXTINF:-1 tvg-id="" tvg-name="AL: ALSAT• sᴅ" tvg-logo="https://i.imgur.com/wTdN9o5.png" group-title="Albania",AL: ALSAT• sᴅ
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/26588
-#EXTINF:-1 tvg-id="Alsat-M" tvg-name="AL: ALSAT M™ ᴴᴰ" tvg-logo="https://i.imgur.com/wTdN9o5.png" group-title="Albania",AL: ALSAT M™ ᴴᴰ
-http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/1236
 #EXTINF:-1 tvg-id="Alsat-M" tvg-name="AL: Alsat M ᶠᴴᴰ" tvg-logo="https://i.imgur.com/wTdN9o5.png" group-title="Albania",AL: Alsat M ᶠᴴᴰ
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/8
 #EXTINF:-1 tvg-id="" tvg-name="AL: Alsat M time ᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Alsat-M.svg/revision/latest?cb=20161125131052" group-title="Albania",AL: Alsat M time ᴴᴰ
