@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AL: Euronews Albania HD" tvg-logo="" group-title="Albania",AL: Euronews Albania HD
+http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/39297
 #EXTINF:-1 tvg-id="RTV 21 MK" tvg-name="AL: RTV 21 MK™ ᴴᴰ" tvg-logo="http://139.59.147.58/storage/uploads/images/channel_logos/RTV21_logo_5ac430b5aab52_thumb.jpg" group-title="Albania",AL: RTV 21 MK™ ᴴᴰ
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/78
 #EXTINF:-1 tvg-id="Alsat-M" tvg-name="AL: ALSAT M™ ᴴᴰ" tvg-logo="https://i.imgur.com/wTdN9o5.png" group-title="Albania",AL: ALSAT M™ ᴴᴰ
