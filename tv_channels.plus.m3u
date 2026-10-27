@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top Channel ᶠᴴᴰ" tvg-logo="https://i.imgur.com/sJPf9MG.png" group-title="Albania",AL: Top Channel ᶠᴴᴰ
+http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/14
 #EXTINF:-1 tvg-id="TeleSport" tvg-name="AL: RTK 1™ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rtk1_2013.png" group-title="Albania",AL: RTK 1™ ᴴᴰ
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/3
 #EXTINF:-1 tvg-id="" tvg-name="AL: Kanal D Drama • sᴅ" tvg-logo="http://logo.protv.cc/picons/logos/KANAL-D-DRAMA.jpeg" group-title="Albania",AL: Kanal D Drama • sᴅ
@@ -90,8 +92,6 @@ http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/14262
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/22
 #EXTINF:-1 tvg-id="" tvg-name="AL: Top Channel • sᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Top_channel_Logo.png" group-title="Albania",AL: Top Channel • sᴅ
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/16473
-#EXTINF:-1 tvg-id="" tvg-name="AL: Top Channel ᶠᴴᴰ" tvg-logo="https://i.imgur.com/sJPf9MG.png" group-title="Albania",AL: Top Channel ᶠᴴᴰ
-http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/14
 #EXTINF:-1 tvg-id="" tvg-name="AL: Top Channal™ ᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/topchannel.png" group-title="Albania",AL: Top Channal™ ᴴᴰ
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/13
 #EXTINF:-1 tvg-id="Jolly HD" tvg-name="AL: Tring Jolly ᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/TRING-JOLLY-HD.png" group-title="Albania",AL: Tring Jolly ᴴᴰ
