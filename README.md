@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="RTSH1 HD" tvg-name="AL: RTV 21 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/jMtR7pC.jpg" group-title="Albania",AL: RTV 21 ᶠᴴᴰ
+http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/1238
 #EXTINF:-1 tvg-id="KTV" tvg-name="AL: KTV™ ᴴᴰ" tvg-logo="https://i.imgur.com/yKMNNik.png" group-title="Albania",AL: KTV™ ᴴᴰ
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/11
 #EXTINF:-1 tvg-id="" tvg-name="•●★AL| SHQIP |★●•" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg" group-title="Albania",•●★AL| SHQIP |★●•
@@ -29,8 +31,7 @@ http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/35645
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/1237
 #EXTINF:-1 tvg-id="KTV" tvg-name="AL: KTV™ ᴴᴰ" tvg-logo="https://i.imgur.com/yKMNNik.png" group-title="Albania",AL: KTV™ ᴴᴰ
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/11
-#EXTINF:-1 tvg-id="RTSH1 HD" tvg-name="AL: RTV 21 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/jMtR7pC.jpg" group-title="Albania",AL: RTV 21 ᶠᴴᴰ
-http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/1238
+
 #EXTINF:-1 tvg-id="RTV 21 HD" tvg-name="AL: RTV 21™ ᴴᴰ" tvg-logo="https://i.imgur.com/Nk5ZJfM.png" group-title="Albania",AL: RTV 21™ ᴴᴰ
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/7
 #EXTINF:-1 tvg-id="RTV 21 MK" tvg-name="AL: RTV 21 MK™ ᴴᴰ" tvg-logo="http://139.59.147.58/storage/uploads/images/channel_logos/RTV21_logo_5ac430b5aab52_thumb.jpg" group-title="Albania",AL: RTV 21 MK™ ᴴᴰ
