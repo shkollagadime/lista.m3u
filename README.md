@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="KTV" tvg-name="AL: KTV™ ᴴᴰ" tvg-logo="https://i.imgur.com/yKMNNik.png" group-title="Albania",AL: KTV™ ᴴᴰ
+http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/11
 #EXTINF:-1 tvg-id="" tvg-name="•●★AL| SHQIP |★●•" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg" group-title="Albania",•●★AL| SHQIP |★●•
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/3107
 #EXTINF:-1 tvg-id="RTSH3 HD" tvg-name="AL: RTK SAT  ᶠᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/rtk1.png" group-title="Albania",AL: RTK SAT  ᶠᴴᴰ
