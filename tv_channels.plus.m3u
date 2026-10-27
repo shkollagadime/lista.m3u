@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Max ᶠᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/SKY-MAX.png" group-title="Albania",AL: Sky Max ᶠᴴᴰ
+http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/186
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Aksion ᶠᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/skyaction.png" group-title="Albania",AL: Sky Aksion ᶠᴴᴰ
+http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/182
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Drame ᶠᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/SKY-MOVIES-DRAMA.jpeg" group-title="Albania",AL: Sky Drame ᶠᴴᴰ
+http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/183
 #EXTINF:-1 tvg-id="" tvg-name="AL: Top Channel ᶠᴴᴰ" tvg-logo="https://i.imgur.com/sJPf9MG.png" group-title="Albania",AL: Top Channel ᶠᴴᴰ
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/14
 #EXTINF:-1 tvg-id="TeleSport" tvg-name="AL: RTK 1™ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rtk1_2013.png" group-title="Albania",AL: RTK 1™ ᴴᴰ
@@ -775,12 +781,6 @@ http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/25756
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/25757
 #EXTINF:-1 tvg-id="" tvg-name="AL: D.GOLD 4 FHD" tvg-logo="http://logo.protv.cc/picons/logos/X-TV.png" group-title="Albania",AL: D.GOLD 4 FHD
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/25758
-#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Max ᶠᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/SKY-MAX.png" group-title="Albania",AL: Sky Max ᶠᴴᴰ
-http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/186
-#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Aksion ᶠᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/skyaction.png" group-title="Albania",AL: Sky Aksion ᶠᴴᴰ
-http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/182
-#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Drame ᶠᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/SKY-MOVIES-DRAMA.jpeg" group-title="Albania",AL: Sky Drame ᶠᴴᴰ
-http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/183
 #EXTINF:-1 tvg-id="" tvg-name="AL: Sky Komedi ᶠᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/skycomedy.png" group-title="Albania",AL: Sky Komedi ᶠᴴᴰ
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/184
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tele one 1 ᶠᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/ONE-TV.jpg" group-title="Albania",AL: Tele one 1 ᶠᴴᴰ
