@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Turkish• sᴅ" tvg-logo="https://i.imgur.com/5d3xtFE.png" group-title="Albania",AL: Tring Turkish• sᴅ
+http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/36119
 #EXTINF:-1 tvg-id="" tvg-name="AL: Sky Max ᶠᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/SKY-MAX.png" group-title="Albania",AL: Sky Max ᶠᴴᴰ
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/186
 #EXTINF:-1 tvg-id="" tvg-name="AL: Sky Aksion ᶠᴴᴰ" tvg-logo="http://logo.protv.cc/picons/logos/skyaction.png" group-title="Albania",AL: Sky Aksion ᶠᴴᴰ
@@ -110,8 +112,6 @@ http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/25958
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/12
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Turkish ᴴᴰ" tvg-logo="https://i.imgur.com/5d3xtFE.png" group-title="Albania",AL: Tring Turkish ᴴᴰ
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/34207
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Turkish• sᴅ" tvg-logo="https://i.imgur.com/5d3xtFE.png" group-title="Albania",AL: Tring Turkish• sᴅ
-http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/36119
 #EXTINF:-1 tvg-id="3 Plus" tvg-name="AL: Tring 3 ™ +" tvg-logo="http://logo.protv.cc/picons/logos/TRING-3-HD.png" group-title="Albania",AL: Tring 3 ™ +
 http://ks88.eu:8080/LiridonIbra/8wt3EGvEz2R8/20
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring 3 ™ " tvg-logo="" group-title="Albania",AL: Tring 3 ™ 
